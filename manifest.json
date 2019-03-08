@@ -6,12 +6,13 @@
   "releases": {
     "040404rc1": {
       "url": "https://github.com/jondkelley/Pi-Star_DXMINI_Fork/archive/040404rc1.tar.gz",
-      "vulnerability": false
+      "vulnerability": false,
+      "update_urgency": false
     },
-    "040404rc1": {
+    "xxxxxrc1": {
+      "update_urgency": "HIGH",
       "url": "https://github.com/jondkelley/Pi-Star_DXMINI_Fork/archive/040404rc1.tar.gz",
       "vulnerability": "CVE-9393 remote attack execution update immediately"
     }
-
   }
 }
