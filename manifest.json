@@ -1,4 +1,6 @@
 {
+  "client_registration_url": "http://dxmini.uberleet.org/dxmini-announce/v1/{SERIAL}/{MODEL}/{REV}/{UPTIME}/{CALLSIGN}/{VERSION}.json",
+  "latest_original_script": "https//raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
   "latest_original_script": "https//raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
   "latest_script": "https//raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update.sh",
   "_self": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/manifest.json",
