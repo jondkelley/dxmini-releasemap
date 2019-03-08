@@ -1,0 +1,17 @@
+{
+  "latest_original_script": "https//raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
+  "latest_script": "https//raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update.sh",
+  "this": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/manifest.json",
+  "latest_tag": "040404rc1",
+  "releases": {
+    "040404rc1": {
+      "url": "https://github.com/jondkelley/Pi-Star_DXMINI_Fork/archive/040404rc1.tar.gz",
+      "vulnerability": false
+    },
+    "040404rc1": {
+      "url": "https://github.com/jondkelley/Pi-Star_DXMINI_Fork/archive/040404rc1.tar.gz",
+      "vulnerability": "CVE-9393 remote attack execution update immediately"
+    }
+
+  }
+}
