@@ -13,7 +13,7 @@
       "nag_user": false
 
     },
-    "xxxxxrc1": {
+    "010101rc1-vulnerable-example": {
       "nag_user": true,
       "update_urgency": "HIGH",
       "url": "https://github.com/jondkelley/Pi-Star_DXMINI_Fork/archive/040404rc1.tar.gz",
