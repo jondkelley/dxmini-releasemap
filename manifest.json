@@ -4,8 +4,8 @@
   "client_announce_prefix": "http://api.dxmini.uberleet.org/dxmini-announce",
   "latest_original_script": "https//raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
   "latest_script": "https//raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest_update.sh",
-  "latest_release": "040404rc1",
-  "release_map": {
+  "latest_version": "040404rc1",
+  "version_map": {
     "040404rc1": {
       "url": "https://github.com/jondkelley/Pi-Star_DXMINI_Fork/archive/040404rc1.tar.gz",
       "vulnerability": false,
