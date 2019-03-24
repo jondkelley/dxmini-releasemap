@@ -6,6 +6,7 @@
   "latest_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest_update.sh",
   "latest_script_md5": "d1de0c3defbf312470058c7bd459a778",
   "latest_version": "040404rc1",
+  "latest_agent": "0.0.1",
   "version_map": {
     "040404rc1": {
       "url": "http://elmers.news/images/dashboard.tar.gz",
