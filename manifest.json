@@ -4,7 +4,7 @@
   "client_announce_prefix": "http://api.dxmini.uberleet.org/dxmini-announce",
   "latest_original_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
   "latest_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest_update.sh",
-  "latest_script_md5": "6b5420c7d8369beb55eaaa1e02f8b122",
+  "latest_script_md5": "d1de0c3defbf312470058c7bd459a778",
   "latest_version": "040404rc1",
   "version_map": {
     "040404rc1": {
