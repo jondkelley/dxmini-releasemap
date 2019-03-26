@@ -1,7 +1,7 @@
 {
   "_self_federated": false,
   "_self": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/manifest.json",
-  "client_announce_prefix": "http://dxmini-api.uberleet.org",
+  "client_announce_url": "http://dxmini-api.uberleet.org/dxm-api/v1.0/register",
   "latest_original_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
   "latest_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest_update.sh",
   "latest_script_md5": "d1de0c3defbf312470058c7bd459a778",
