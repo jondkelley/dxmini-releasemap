@@ -5,10 +5,12 @@
   "latest_original_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
   "latest_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest_update.sh",
   "latest_script_md5": "d1de0c3defbf312470058c7bd459a778",
-  "latest_version": "040404rc1",
+  "latest_version": "v20190301rev1",
   "latest_python_agent": "0.0.1",
   "version_map": {
-    "040404rc1": {
+    "v20190301rev1": {
+      "revision": "1",
+      "version": "20190301",
       "url": "http://elmers.news/images/dashboard.tar.gz",
       "md5": "35a5c1bcb2ffb81e10bf8244d7072b8b",
       "vulnerability": false,
@@ -17,6 +19,8 @@
 
     },
     "010101rc1-vulnerable-example": {
+      "revision": "12",
+      "version": "221",
       "nag_user": true,
       "update_urgency": "HIGH",
       "url": "https://github.com/jondkelley/Pi-Star_DXMINI_Fork/archive/040404rc1.tar.gz",
