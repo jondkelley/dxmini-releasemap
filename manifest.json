@@ -9,7 +9,7 @@
   "latest_python_agent": "0.0.1",
   "version_map": {
     "v20190301rev1": {
-      "revision": "1",
+      "revision": "2",
       "version": "20190301",
       "url": "http://elmers.news/images/dashboard.tar.gz",
       "md5": "35a5c1bcb2ffb81e10bf8244d7072b8b",
