@@ -3,8 +3,7 @@
   "_self": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/manifest.json",
   "client_announce_url": "https://elmers.news/dxm-api/v1.0/register",
   "latest_original_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
-  "latest_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest_update.sh",
-  "latest_script_md5": "d1de0c3defbf312470058c7bd459a778",
+  "postinstall": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest_update.sh",
   "latest_version": "v20190301rev1",
   "latest_python_agent": "0.0.2",
   "version_map": {
