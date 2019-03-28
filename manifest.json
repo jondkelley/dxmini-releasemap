@@ -6,7 +6,7 @@
   "latest_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest_update.sh",
   "latest_script_md5": "d1de0c3defbf312470058c7bd459a778",
   "latest_version": "v20190301rev1",
-  "latest_python_agent": "0.0.1",
+  "latest_python_agent": "0.0.2",
   "version_map": {
     "v20190301rev1": {
       "revision": "2",
