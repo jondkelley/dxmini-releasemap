@@ -8,7 +8,7 @@
   "postinstall": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/postinstall.sh",
   "postinstall_script_md5": "0",
   "latest_version": "v20190301rev1",
-  "latest_python_agent": "0.0.2",
+  "latest_python_agent": "0.0.3",
   "version_map": {
     "v20190301rev1": {
       "revision": "2",
