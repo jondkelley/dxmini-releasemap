@@ -1,7 +1,7 @@
 {
   "_self_federated": false,
   "_self": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/manifest.json",
-  "client_announce_url": "https://elmers.news/dxm-api/v1.0/register",
+  "client_announce_url": "http://elmers.news/dxm-api/v1.0/register",
   "latest_original_script": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/latest-update-original.sh",
   "preinstall": "https://raw.githubusercontent.com/jondkelley/dxmini-releasemap/master/preinstall.sh",
   "preinstall_script_md5": "0",
@@ -11,9 +11,9 @@
   "latest_python_agent": "0.0.3",
   "version_map": {
     "v20190301rev1": {
-      "revision": "2",
+      "revision": "1",
       "version": "20190301",
-      "url": "http://elmers.news/images/dashboard.tar.gz",
+      "url": "http://updates.dxmini.com/v20190301rev1.tar.gz",
       "md5": "35a5c1bcb2ffb81e10bf8244d7072b8b",
       "vulnerability": false,
       "update_urgency": false,
